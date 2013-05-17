@@ -1,3 +1,3 @@
 # AutoMapper
 
-[http://automapper.org]
+http://automapper.org
